@@ -28,4 +28,4 @@ Hubungi saya melalui platform sosial media berikut:
 [![](https://visitcount.itsvg.in/api?id=Batozar-404&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://github.com/Batozar-404/Batozar-404/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Batozar-404/Batozar-404/blob/main/snake.svg" alt="Snake animation" />
